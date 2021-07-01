@@ -1,2 +1,2 @@
-# assets-cdn
-My assets cdn repo
+# Assets CDN
+My personal assets CDN repo
